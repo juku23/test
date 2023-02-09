@@ -1,3 +1,3 @@
-this is my second project.
-this is a second
-i will previal by his grace
+This is my second project.
+This is a second.
+I will prevail by his grace.
